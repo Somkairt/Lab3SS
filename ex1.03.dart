@@ -9,5 +9,4 @@ void main() {
     fac *= n;
   }
   print("$number is $fac");
-  print("$number is $fac");
 }
