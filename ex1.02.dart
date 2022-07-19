@@ -19,5 +19,6 @@ void main() {
     stdout.write("Your Grade is : $grade");
   } else {
     stdout.write("Please input an integer between 0-100 !!!");
+    print("Thank U . . .");
   }
 }

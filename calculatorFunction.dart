@@ -56,8 +56,8 @@ void main() {
 
       case 4:
         print("Divide : /");
-
         res = divFun(numOne, numTwo);
+
         print("Result = $res");
         break;
 
@@ -67,5 +67,6 @@ void main() {
     }
     print("\n--------------------\n");
   } while (choice != 5);
+  print("Thank U . . .");
   print("Thank U . . .");
 }

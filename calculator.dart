@@ -6,7 +6,6 @@ void main() {
 
   do {
     print("1. Addition\n");
-
     print("2. Subtraction\n");
     print("3. Multiplication\n");
     print("4. Divition\n");
@@ -51,5 +50,7 @@ void main() {
     }
     print("\n--------------------\n");
   } while (choice != 5);
+  print("Thank U . . .");
+  print("Thank U . . .");
   print("Thank U . . .");
 }

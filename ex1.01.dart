@@ -7,5 +7,6 @@ void main() {
     print("คู่");
   } else {
     print("คี่");
+    print("Thank U . . .");
   }
 }

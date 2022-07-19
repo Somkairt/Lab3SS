@@ -16,5 +16,6 @@ DecimalToBinary(int k) {
     final binaryNumber = decimalNum.toRadixString(2);
     binaryNumber;
     print("-----\nEquivalent Binary Value : $binaryNumber\n-----\n");
+    print("Thank U . . .");
   }
 }
